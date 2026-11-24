@@ -1,0 +1,59 @@
+{
+  "template_name": "Original GS Retail Template",
+  "version": "1.0",
+  "slide_dimensions": {
+    "width_inches": 10.0,
+    "height_inches": 7.5
+  },
+  "title_slide": {
+    "slide_index": 0,
+    "title_shape_id": 2,
+    "title_shape_name": "Rectangle 1",
+    "period_shape_id": 6,
+    "period_shape_name": "TextBox 5",
+    "store_shape_id": 9,
+    "store_shape_name": "TextBox 8"
+  },
+  "banner_slide": {
+    "slide_index": 1,
+    "header_shape_id": 3,
+    "header_shape_name": "Rectangle 2",
+    "header_prefix": "■ GS RETAIL (",
+    "header_suffix": ")",
+    "store_shape_id": 6,
+    "store_shape_name": "TextBox 5",
+    "banner_table_shape_id": 2
+  },
+  "product_slide": {
+    "slide_index": 2,
+    "header_shape_id": 4,
+    "header_shape_name": "Rectangle 3",
+    "header_prefix": "■ GS RETAIL (",
+    "header_suffix": ")",
+    "store_shape_id": 8,
+    "store_shape_name": "TextBox 7",
+    "table_shape_id": 2,
+    "table_shape_name": "Table 1",
+    "products_per_slide": 8,
+    "slots": [
+      {"slot_index": 0, "row_image": 1, "col_image": 0, "row_text": 2, "col_text": 0},
+      {"slot_index": 1, "row_image": 1, "col_image": 1, "row_text": 2, "col_text": 1},
+      {"slot_index": 2, "row_image": 1, "col_image": 2, "row_text": 2, "col_text": 2},
+      {"slot_index": 3, "row_image": 1, "col_image": 3, "row_text": 2, "col_text": 3},
+      {"slot_index": 4, "row_image": 4, "col_image": 0, "row_text": 5, "col_text": 0},
+      {"slot_index": 5, "row_image": 4, "col_image": 1, "row_text": 5, "col_text": 1},
+      {"slot_index": 6, "row_image": 4, "col_image": 2, "row_text": 5, "col_text": 2},
+      {"slot_index": 7, "row_image": 4, "col_image": 3, "row_text": 5, "col_text": 3}
+    ],
+    "formatting": {
+      "font_name": "The Jamsil 3 Regular",
+      "fallback_font": "Arial",
+      "font_size_pt": 10.5,
+      "bold": false,
+      "color_rgb": [0, 0, 0],
+      "alignment": "CENTER",
+      "include_price_in_card": false,
+      "price_font_size_pt": 9.0
+    }
+  }
+}
